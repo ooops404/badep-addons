@@ -15,7 +15,7 @@
              'report/sale_report_templates.xml',
              'security/ir.model.access.csv',
              ],
-    'auto_install': True,
+    'auto_install': False,
     'installable': True,
     'price': 30,
     'currency': 'EUR'
