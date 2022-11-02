@@ -13,7 +13,7 @@
     'data': [
              'views/res_config_settings_views.xml',
              ],
-    'auto_install': True,
+    'auto_install': False,
     'installable': False,
     'price': 30,
     'currency': 'EUR'

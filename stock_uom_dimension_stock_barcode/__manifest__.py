@@ -15,7 +15,7 @@
              'views/stock_move_line_views.xml',
              ],
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
     'price': 50,
     'currency': 'EUR'
 }

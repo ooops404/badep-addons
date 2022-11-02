@@ -15,7 +15,7 @@
              'views/sale_views.xml',
              'views/assets.xml',
              ],
-    'auto_install': True,
+    'auto_install': False,
     'installable': False,
     'price': 30,
     'currency': 'EUR'
